@@ -51,7 +51,6 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img height="40" src="https://www.kali.org/images/kali-logo.svg">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Metasploit_logo.png">
 
 </p>
 
