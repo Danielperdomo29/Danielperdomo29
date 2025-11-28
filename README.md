@@ -61,12 +61,17 @@
 
 <p align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Danielperdomo29&show_icons=true&hide_border=true&theme=tokyonight"/>
-    <img height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Danielperdomo29&show_icons=true&hide_border=true&theme=react"/>
-  </picture>
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,SCSS,Ruby" />
+</picture>
 
   &nbsp;
 
