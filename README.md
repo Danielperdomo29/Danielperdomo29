@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.gifer.com/origin/6d/6d59b8fc4acc5a7a2c1bf781b7f0d8db_w200.gif" width="40px">
-  ¡Hola! Soy Daniel Enrique Perdomo
+  ¡Hola! Soy **Daniel Enrique Perdomo**
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"/>
 </h1>
 
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img align="right" height="230" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding Animation" />
+  <img align="right" height="230" src="https://media.giphy.com/media/qgM9A9M9YlGkM/giphy.gif" alt="Coding Animation" />
   
   Me dedico a la construcción de **aplicaciones web robustas y de alto rendimiento**, con una experiencia profunda en el ciclo completo de desarrollo (**Fullstack**) y el despliegue de **arquitecturas basadas en Microservicios**.
 </p>
@@ -58,11 +58,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danielperdomo29&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,HTML,CSS" alt="Lenguajes Principales" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielperdomo29&show_icons=true&locale=es&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de Daniel Perdomo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielperdomo29&show_icons=true&locale=es&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de Daniel Perdomo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Danielperdomo29&theme=tokyonight&hide_border=true" alt="Racha de Contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Danielperdomo29&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Racha de Contribuciones"/>
 </p>
 
 ---
@@ -78,5 +78,3 @@
     <img height="45" alt="WhatsApp" src="https://cdn-icons-png.flaticon.com/512/124/124034.png">
   </a>
 </p>
-
----
