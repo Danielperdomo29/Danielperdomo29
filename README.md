@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/origin/6d/6d59b8fc4acc5a7a2c1bf781b7f0d8db_w200.gif" width="40px">
   ¡Hola! Soy **Daniel Enrique Perdomo**
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"/>
-</h1>
+</h1> 
 
 <p align="center">
   <i>Ingeniero Fullstack (Node.js/Java) • Especialista en Desarrollo Web y Arquitecturas de Microservicios</i>
@@ -47,7 +47,7 @@
   <img height="40" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img height="40" alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img height="40" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img height="40" alt="AWS" src="https://devicon.dev/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img height="40" alt="AWS" src="https://skillicons.dev/icons?i=aws">
   <img height="40" alt="Terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img height="40" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </p>
