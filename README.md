@@ -57,8 +57,8 @@
 ## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danielperdomo29&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,HTML,CSS" alt="Lenguajes Principales" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielperdomo29&show_icons=true&locale=es&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de Daniel Perdomo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danielperdomo29&theme=tokyonight" alt="Lenguajes Principales" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danielperdomo29&theme=tokyonight" alt="Estadísticas de Daniel Perdomo" />
 </p>
 
 <p align="center">
