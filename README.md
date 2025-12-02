@@ -81,8 +81,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Danielperdomo29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas generales">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Danielperdomo29&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Jupyter-Notebook-projects&hide=Jupyter%20Notebook,HTML,CSS" alt="Lenguajes más usados">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danielperdomo29&theme=tokyonight" alt="Lenguajes Principales" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danielperdomo29&theme=tokyonight" alt="Estadísticas de Daniel Perdomo" />
 </p>
 
 <p align="center">
