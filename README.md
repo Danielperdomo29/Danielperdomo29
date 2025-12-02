@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <code>🚀 Ingeniero Fullstack | Especialista en Microservicios & DevOps</code>
+  <code> Ingeniero Electronico | Especialista en DevSecOps</code>
 </h3>
 
 <p align="center">
