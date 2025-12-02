@@ -85,9 +85,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danielperdomo29&theme=tokyonight" alt="Estadísticas de Daniel Perdomo" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Danielperdomo29&theme=tokyonight&hide_border=true&mode=weekly" alt="Racha de contribuciones">
-</p>
 
 <p align="center">
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Danielperdomo29&theme=onedark&no-frame=true&row=2&column=4" alt="Logros de GitHub">
@@ -126,6 +123,3 @@
   <i>"La ingeniería es el arte de aplicar la ciencia al diseño de soluciones que mejoran vidas."</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
-</p>
