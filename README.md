@@ -83,10 +83,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danielperdomo29&theme=tokyonight" alt="Lenguajes Principales" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danielperdomo29&theme=tokyonight" alt="Estadísticas de Daniel Perdomo" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danielperdomo29&theme=onedark&no-frame=true&row=2&column=4" alt="Logros de GitHub" />
-</p>
 ---
 
 ### 📞 Contacto & Enlaces
