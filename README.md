@@ -76,7 +76,6 @@
   <img src="https://skillicons.dev/icons?i=linux,nginx,jenkins,githubactions,bash,prometheus,grafana" alt="Infrastructure Stack" height="45">
 </p>
 
----
 
 ### 📊 Estadísticas de GitHub
 
@@ -86,9 +85,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danielperdomo29&theme=onedark&no-frame=true&row=2&column=4" alt="Logros de GitHub">
+  <img src="https://github-profile-trophy.vercel.app/?username=Danielperdomo29&theme=onedark&no-frame=true&row=2&column=4" alt="Logros de GitHub" />
 </p>
-
 ---
 
 ### 📞 Contacto & Enlaces
